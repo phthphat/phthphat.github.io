@@ -1,8 +1,8 @@
-title: Phthphat
-author: Phát Phạm
+title: phthphat
+author: Phat Pham
 email: phthphat@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Website mang những suy nghĩ cá nhân của mình
+  Chia sẻ về lập trình
 
 show_excerpts: false # set to true to show excerpts on the homepage
 site-verification:
@@ -40,8 +40,9 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+- introduce.md
+- about.md
 
 # Build settings
 theme: minima

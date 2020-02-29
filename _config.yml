@@ -5,8 +5,9 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Chia sẻ về lập trình
 
 show_excerpts: false # set to true to show excerpts on the homepage
-site-verification:
-  google-search-console: xxxx
+# site-verification:
+#   google-search-console: qwmgTiWScqIvh7ODuz9dyfLLFCDoCa1j1hAHKgyjB
+google-site-verification: qwmgTiWScqIvh7ODuz9dyfLLFCDoCa1j1hAHKgyjB
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:

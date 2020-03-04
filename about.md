@@ -36,8 +36,7 @@ permalink: /about/
 - Like coding some app or script that's helpful in my life (this is my life, I can't share code)
 - Love writing mini library to use in many project (for more detail: [Gitlab](https://gitlab.com/phthphat-share)). Example:
   - [PNetworking && PParser](https://gitlab.com/phthphat-share/pnetworking.git)
-  - Pie Chart
-  - Taggable textview
+  - [CoreDataHelper](https://gitlab.com/phthphat-share/coredatahelper)
 - Love learning new thing which is more productive, easier to maintain, more moderm, ...
 - Love teaching other people about anything I know
 
@@ -45,14 +44,13 @@ permalink: /about/
 - Communication skill is not so good
 
 ### Development skill
-- Experience with 
-  - Swift
-  - UIKit
-  - REST API
-  - Design Pattern
-  - UserDefault / CoreData
-  - RxSwift
-  - ARC
+- iOS Development
+  - UI: Have experience with UIKit, create UI with code and storyboard (Code is preferer). Often work with UITableView, UICollectionView, UIScrollView, UIStackView,...
+  - Network: Use API with Alamorofire, URLSession (URLSession is preferer). Create own package [PNetworking && PParser](https://gitlab.com/phthphat-share/pnetworking.git).
+  - Design Pattern: Used to work with MVC, VIPER, MVVM. Know how to use Protocol Oriented Programming with OOP. Prefer code with dependency injection, clean code...
+  - Database: Know how to use CoreData with multithread
+  - Performance: Worked with multithread, understand ARC
+  - Other: RxSwift, closure, delegate
 - GitHub: 7/10
 - Data structure & Algorithm: 6-7/10 (don't know how top 10 is)
 - Teamwork

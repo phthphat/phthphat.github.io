@@ -10,7 +10,7 @@ permalink: /about/
 - Company history:
     - Vinova (intern: 06-07/2019, part-time: 08/2019 - now)
 - Contact:
-  - LinkedIn: https://www.linkedin.com/in/phát-phạm-714456191/
+  - LinkedIn: [https://www.linkedin.com/in/phát-phạm-714456191/](https://www.linkedin.com/in/phát-phạm-714456191/)
   - Facebook: [Phat Phạm](https://www.facebook.com/phthphat)
   - Gitlab: [https://gitlab.com/phthphat](https://gitlab.com/phthphat)
   - Email: phthphat@gmail.com

@@ -37,8 +37,9 @@ permalink: /about/
 ### Pros and passion about coding
 - Like coding some app or script that's helpful in my life (this is my life, I can't share code)
 - Love writing mini library to use in many project (for more detail: [Gitlab](https://gitlab.com/phthphat-share)). Example:
-  - [PNetworking && PParser](https://gitlab.com/phthphat-share/pnetworking.git)
-  - [CoreDataHelper](https://gitlab.com/phthphat-share/coredatahelper)
+  - [PNetworking && PParser](https://gitlab.com/phthphat-share/pnetworking): Networking without Alamorefire and ObjectMapper
+  - [CoreDataHelper](https://gitlab.com/phthphat-share/coredatahelper): Make working with coredata easier
+  - [DeclarativeUIKit](https://gitlab.com/phthphat-share/declarativeuikit): Create UI with declarative programming style
 - Love learning new thing which is more productive, easier to maintain, more moderm, ...
 - Love teaching other people about anything I know
 

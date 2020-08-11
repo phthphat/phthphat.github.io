@@ -8,7 +8,7 @@ permalink: /about/
 - University: Bach khoa University
 - Job: iOS frontend developer
 - Company history:
-    - Vinova (intern: 06-07/2019, part-time: 08/2019 - now)
+    - Vinova (intern: 06-07/2019, part-time: 08/2019 - 05/2020)
 - Contact:
   - LinkedIn: [https://www.linkedin.com/in/phthphat/](https://www.linkedin.com/in/phthphat/)
   - Facebook: [Phat Phạm](https://www.facebook.com/phthphat)

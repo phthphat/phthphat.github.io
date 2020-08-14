@@ -14,7 +14,7 @@
   {% if site.pinterest-verification %}
   <meta name="p:domain_verify" content="{{ site.pinterest-verification }}" />
   {% endif %}
-  {% site.trustpilot-one-time-domain-verification-id %}
+  {% if site.trustpilot-one-time-domain-verification-id %}
   <meta name="trustpilot-one-time-domain-verification-id" content="{{ site.trustpilot-one-time-domain-verification-id }}" />
   {% endif %}
 </head>

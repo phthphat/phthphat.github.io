@@ -9,6 +9,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 #   google-search-console: qwmgTiWScqIvh7ODuz9dyfLLFCDoCa1j1hAHKgyjB
 google-site-verification: qwmgTiWScqIvh7ODuz9dyfLLFCDoCa1j1hAHKgyjB-c
 pinterest-verification: cd86811ad5417e9aaee2cc5d98feb821
+trustpilot-one-time-domain-verification-id: ec007ff9-89e8-47cd-afb9-5efea52a2651
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:

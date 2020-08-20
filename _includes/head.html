@@ -17,4 +17,13 @@
   {% if site.trustpilot-one-time-domain-verification-id %}
   <meta name="trustpilot-one-time-domain-verification-id" content="{{ site.trustpilot-one-time-domain-verification-id }}" />
   {% endif %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-163377514-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-163377514-1');
+  </script>
 </head>

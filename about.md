@@ -26,23 +26,23 @@ permalink: /about/
 - Graduation essay (client: iOS app, server: `Typescript` with `Express` and `MySQL`)
 
 ### Development skill
-## iOS Development (main skill)
+#### iOS Development (main skill)
 - UI: Have experience with UIKit, create UI with code and storyboard (Code is preferer). Often work with UITableView, UICollectionView, UIScrollView, UIStackView,... Make an [DeclarativeUIKit package](https://gitlab.com/phthphat-share/declarativeuikit) based on LBTATool
 - Network: Use API with Alamorofire, URLSession (URLSession is preferer). Create own package [PNetworking && PParser](https://gitlab.com/phthphat-share/pnetworking.git).
 - Design Pattern: Used to work with MVC, VIPER, MVVM. Know how to use Protocol Oriented Programming with OOP. Prefer code with dependency injection, clean code...
 - Database: Know how to use CoreData with multithread
 - Performance: Worked with multithread, understand ARC
 - Other: RestfulAPI, RxSwift, closure, delegate, SocketIO
-## Web frontend developement
+#### Web frontend developement
 - ReactJS + Typescript
 - React Hook
 - HTML/CSS/Javascript
-## Backend development:
+#### Backend development:
 - NodeJS + Typescript
 - REST API + GraphQL
 - SocketIO
 - Firebase hosting, function
-## Other
+#### Other
 - GitHub: 7/10
 - Data structure & Algorithm: 6-7/10 (don't know how top 10 is)
 - Teamwork

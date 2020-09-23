@@ -33,15 +33,18 @@ permalink: /about/
 - Database: Know how to use CoreData with multithread
 - Performance: Worked with multithread, understand ARC
 - Other: RestfulAPI, RxSwift, closure, delegate, SocketIO
+
 #### Web frontend developement
 - ReactJS + Typescript
 - React Hook
 - HTML/CSS/Javascript
+
 #### Backend development:
 - NodeJS + Typescript
 - REST API + GraphQL
 - SocketIO
 - Firebase hosting, function
+
 #### Other
 - GitHub: 7/10
 - Data structure & Algorithm: 6-7/10 (don't know how top 10 is)

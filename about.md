@@ -6,9 +6,9 @@ permalink: /about/
 ### General information
 - Name: Pham Thanh Phat
 - University: Bach khoa University
-- Job: iOS frontend developer
+- Main skill: iOS developement
 - Company history:
-    - Vinova (intern: 06-07/2019, part-time: 08/2019 - 05/2020)
+    - Vinova (intern: 06-07/2019, part-time: 08/2019 - 05/2020) (iOS developer)
 - Contact:
   - LinkedIn: [https://www.linkedin.com/in/phthphat/](https://www.linkedin.com/in/phthphat/)
   - Facebook: [Phat Phạm](https://www.facebook.com/phthphat)
@@ -24,6 +24,28 @@ permalink: /about/
 - Build a small compiler: `Micro Pascal` (personal)
 - Encrypt and decrypt assignment (main dev)
 - Graduation essay (client: iOS app, server: `Typescript` with `Express` and `MySQL`)
+
+### Development skill
+## iOS Development (main skill)
+- UI: Have experience with UIKit, create UI with code and storyboard (Code is preferer). Often work with UITableView, UICollectionView, UIScrollView, UIStackView,... Make an [DeclarativeUIKit package](https://gitlab.com/phthphat-share/declarativeuikit) based on LBTATool
+- Network: Use API with Alamorofire, URLSession (URLSession is preferer). Create own package [PNetworking && PParser](https://gitlab.com/phthphat-share/pnetworking.git).
+- Design Pattern: Used to work with MVC, VIPER, MVVM. Know how to use Protocol Oriented Programming with OOP. Prefer code with dependency injection, clean code...
+- Database: Know how to use CoreData with multithread
+- Performance: Worked with multithread, understand ARC
+- Other: RestfulAPI, RxSwift, closure, delegate, SocketIO
+## Web frontend developement
+- ReactJS + Typescript
+- React Hook
+- HTML/CSS/Javascript
+## Backend development:
+- NodeJS + Typescript
+- REST API + GraphQL
+- SocketIO
+- Firebase hosting, function
+## Other
+- GitHub: 7/10
+- Data structure & Algorithm: 6-7/10 (don't know how top 10 is)
+- Teamwork
 
 ### Job history
 - Part time iOS Developer at Vinova Pte (08/2019 - now). Worked on projects: 
@@ -47,15 +69,3 @@ permalink: /about/
 
 ### Cons
 - Communication skill is not so good
-
-### Development skill
-- iOS Development
-  - UI: Have experience with UIKit, create UI with code and storyboard (Code is preferer). Often work with UITableView, UICollectionView, UIScrollView, UIStackView,... Make an [DeclarativeUIKit package](https://gitlab.com/phthphat-share/declarativeuikit) based on LBTATool
-  - Network: Use API with Alamorofire, URLSession (URLSession is preferer). Create own package [PNetworking && PParser](https://gitlab.com/phthphat-share/pnetworking.git).
-  - Design Pattern: Used to work with MVC, VIPER, MVVM. Know how to use Protocol Oriented Programming with OOP. Prefer code with dependency injection, clean code...
-  - Database: Know how to use CoreData with multithread
-  - Performance: Worked with multithread, understand ARC
-  - Other: RestfulAPI, RxSwift, closure, delegate, SocketIO
-- GitHub: 7/10
-- Data structure & Algorithm: 6-7/10 (don't know how top 10 is)
-- Teamwork

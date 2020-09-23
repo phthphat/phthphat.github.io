@@ -6,7 +6,7 @@ permalink: /about/
 ### General information
 - Name: Pham Thanh Phat
 - University: Bach khoa University
-- Main skill: iOS developement
+- Main skill: iOS development
 - Company history:
     - Vinova (intern: 06-07/2019, part-time: 08/2019 - 05/2020) (iOS developer)
 - Contact:
@@ -32,11 +32,11 @@ permalink: /about/
 - Design Pattern: Used to work with MVC, VIPER, MVVM. Know how to use Protocol Oriented Programming with OOP. Prefer code with dependency injection, clean code...
 - Database: Know how to use CoreData with multithread
 - Performance: Worked with multithread, understand ARC
-- Other: RestfulAPI, RxSwift, closure, delegate, SocketIO
+- Other: RestfulAPI, RxSwift, closure, delegate, SocketIO-Client
 
-#### Web frontend developement
+#### Web frontend development
 - ReactJS + Typescript
-- React Hook
+- React Hook + Redux like (Context, Action, Reducer)
 - HTML/CSS/Javascript
 
 #### Backend development:
@@ -44,6 +44,7 @@ permalink: /about/
 - REST API + GraphQL
 - SocketIO
 - Firebase hosting, function
+- Database: NoSQL(Firestore), SQL(MySQL, SQL Server)
 
 #### Other
 - GitHub: 7/10
